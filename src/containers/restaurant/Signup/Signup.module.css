@@ -1,0 +1,22 @@
+.Form {
+    margin: 20px auto;
+    width: 75%;
+    max-width: 500px;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: wheat;
+    
+}
+
+.Image{
+    height: 900px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../../assets/restaurant-fi.jpg') ;
+    background-size: cover;
+}
